@@ -4,6 +4,10 @@
 
 ## 使用
 
+```bash
+pnpm add git+https://github.com/kohaiy/piexifjs.d.ts.git
+```
+
 `package.json`
 ```json
 {
