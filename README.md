@@ -5,13 +5,13 @@
 ## 使用
 
 ```bash
-pnpm add git+https://github.com/kohaiy/piexifjs.d.ts.git
+pnpm add -D git+https://github.com/kohaiy/piexifjs.d.ts.git
 ```
 
 `package.json`
 ```json
 {
-  "dependencies": {
+  "devDependencies": {
     "piexifjs.d.ts.git": "github:kohaiy/piexifjs.d.ts"
   }
 }
